@@ -1,5 +1,5 @@
 ---
-title: 調整大小和小數位數為 Windows Form
+title: 調整Windows Form的大小和比例
 ms.date: 04/07/2017
 helpviewer_keywords:
 - Windows Forms, changing size
